@@ -1,0 +1,27 @@
+@media screen and (min-width: 731px) and (max-width: 1000px) {
+  #altosx {
+    width: 150px !important;
+    height: 203px !important;
+  }
+  #bassodx {
+    width: 330px !important;
+    height: 245px !important;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  #da730 {
+    display: none !important;
+  }
+  #fino730 {
+    display: block !important;
+  }
+  #altosx {
+    width: 90px !important;
+    height: 122px !important;
+  }
+  #bassodx {
+    width: 204px !important;
+    height: 151px !important;
+  }
+}

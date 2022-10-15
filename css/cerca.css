@@ -1,0 +1,10 @@
+@media screen and (max-width: 685px) {
+  #altosx {
+    width: 150px !important;
+    height: 203px !important;
+  }
+  #bassodx {
+    width: 330px !important;
+    height: 245px !important;
+  }
+}
